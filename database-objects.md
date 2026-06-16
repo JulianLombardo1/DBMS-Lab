@@ -21,7 +21,7 @@ id: bafyreiafrke4qjvexx3c6bodkhvbzc4qnxzj4arfzfpdjfxxfv74fabr6a
 # Database Objects   
 ## Database Objects   
 ### Tables, Constraints & Defaults   
-- create table 'person' having colums thet describe a person's attributes: first name, last name, show size and ID   
+- create table 'person' having colums thet describe a person's attributes: first name, last name, shoe size and ID   
 - add the following table constraints:   
     - a primary key   
     - a "not null" constraint for first name and last name   
